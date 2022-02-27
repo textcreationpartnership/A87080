@@ -1,0 +1,544 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divi Arminij mactatorum renata, et renovata petitio. Or the Arminian priests last petition for their former formalitie, and ancient innovation, both in church and common-weale; returned from all parts, with the numerall subscription of 6666. And therein their intentions are lively expressed by an accommodate and meete embleme, and made plain to the ingenuous reader. Viz unita fortior. Importunitie redoubled (where many combinde) will doubtlesse prevaile. By Thomas Harbie, gent.</title>
+            <author>Harby, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87080</idno>
+            <idno type="STC">Wing H682</idno>
+            <idno type="STC">Thomason E141_18</idno>
+            <idno type="STC">ESTC R16244</idno>
+            <idno type="EEBO-CITATION">99859993</idno>
+            <idno type="PROQUEST">99859993</idno>
+            <idno type="VID">112098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112098)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divi Arminij mactatorum renata, et renovata petitio. Or the Arminian priests last petition for their former formalitie, and ancient innovation, both in church and common-weale; returned from all parts, with the numerall subscription of 6666. And therein their intentions are lively expressed by an accommodate and meete embleme, and made plain to the ingenuous reader. Viz unita fortior. Importunitie redoubled (where many combinde) will doubtlesse prevaile. By Thomas Harbie, gent.</title>
+                  <author>Harby, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 12 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons in Gold-Smiths Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an illustration following the title page.</note>
+                  <note>In verse.</note>
+                  <note>Authors epilogue, p. 10-12.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arminianism --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112098:1"/>
+            <p>
+               <hi>DIVI ARMINIJ</hi>
+            </p>
+            <p>
+               <hi>MACTATOR<g ref="char:V">Ʋ</g>M RENATA, ET RENOVATA PETITIO.</hi>
+            </p>
+            <p>OR THE ARMINIAN PRIESTS LAST PETITION for their former formalitie, and anci<g ref="char:EOLhyphen"/>ent Innovation, both in Church and Common-weale; returned from all <hi>parts, with the numerall ſub<g ref="char:EOLhyphen"/>ſcription of</hi> 6666. <hi>AND</hi> Therein their intentions are lively expreſſed by an accommodate and meete Embleme, and made plain to the ingenuous Reader.</p>
+            <p>
+               <hi>Vis unita fortior.</hi>
+            </p>
+            <p>Importunitie redoubled (where many com<g ref="char:EOLhyphen"/>binde) will doubtleſſe prevaile.</p>
+            <p>By THOMAS HARBIR, Gent.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Matthew Simmons</hi> in <hi>Gold-ſmiths</hi> Alley. 1642.</p>
+            <figure>
+               <p>Proffluit ex verbo divince Spiritus aureo.</p>
+               <p>ALTARE</p>
+               <sp>
+                  <p>
+                     <q>Et tantes audetis tollere molar. <bibl>Rev: 7.1.</bibl>
+                     </q>
+                  </p>
+               </sp>
+               <p>Praelia Hierarchica</p>
+               <sp>
+                  <p>Hic muri fisis ahoni.</p>
+               </sp>
+            </figure>
+            <figure>
+               <p>Bellum Epiſcopale</p>
+               <p>
+                  <q>They are as the ſtuble before the winde and as the chaffe which i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtorms carrieth away. <bibl>Job 22:2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</bibl>
+                  </q>
+               </p>
+               <p>Quadra Senatus.</p>
+               <p>Nitun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r in Vetitum sed quo rapit impetus aurio Pellimar hand vallant niti fugimiiſq retrorſum.</p>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:112098:2"/>
+            <pb facs="tcp:112098:2"/>
+            <head>THE <hi>ARMINIAN</hi>-PRIESTS laſt Petition for their former formalitie, and ancient innovation, both in Church and Common-weale; returned from all parts, with the numerall ſubſcrip<g ref="char:EOLhyphen"/>tion of 6000 and 666.</head>
+            <l>
+               <seg rend="decorInit">V</seg>Ouchſafe great Lords your favour but to hear,</l>
+            <l>Our juſt requeſts by us preſented here.</l>
+            <l>Our Churches open errours, ſome doe ſay,</l>
+            <l>You would (how e're we brook it) take away;</l>
+            <l>And wholſome Truths eſtabliſh in their roome;</l>
+            <l>Such as the way of Truth may well become.</l>
+            <l>Yet ſome doe doubt, and you perhaps may deeme</l>
+            <l>What you appoint as fit, will not ſo ſeeme</l>
+            <l>To us; nor that we ever will endure</l>
+            <l>So great a change; but reſt your Honours ſure,</l>
+            <l>That wee our ſelves ſhall now both fully cleare</l>
+            <l>From all Such ſtaine and fault, and you from feare.</l>
+            <l>And t'extinguiſh doubt, our duties you ſhall ſee</l>
+            <l>In ages paſt, both what they were, and be</l>
+            <l>Even now; while <hi>Edward</hi> many rites refuſed,</l>
+            <l>He Maſſe put downe, and this our ſervice chuſed:</l>
+            <l>We then the Clergic of the Land were ſtrict,</l>
+            <l>The laſt to keepe; not Maſſe, gainſt it we kickt:</l>
+            <l>But this Queene <hi>Mary</hi> had no ſooner ſtaid,</l>
+            <l>And Maſſe againe enjoynde, but we obaid.</l>
+            <l>And now her ſiſter (<hi>Mary</hi> having paide</l>
+            <l>Fraile natures debt) no ſooner Queene is made,</l>
+            <l>
+               <pb n="2" facs="tcp:112098:3"/>But ſhee againe puts downe that Idoll Maſſe;</l>
+            <l>Our Rites reſtores, and Service as it was:</l>
+            <l>To theſe our Father-Prieſts did then ſubmit,</l>
+            <l>Though moſt (perhaps) did minde it was not fit:</l>
+            <l>Yet what the State adjudgeth to be beſt,</l>
+            <l>They queſtion not, but doote, and therein reſt.</l>
+            <l>Now what our Fathers did, wee meane to doe,</l>
+            <l>Conforme our ſelves to things confirmde by you.</l>
+            <l>Like Weavers Shuttles that doe forwards ſpring,</l>
+            <l>As thriddes riſe up, or fall; then ſtraight beginne</l>
+            <l>A ſwift Retreate: ſo wee proceed, and priſe,</l>
+            <l>And ſtraight run backe as States doe fall or riſe.</l>
+            <l>Wee are not ſo unlearn'd, but wee our duties know,</l>
+            <l>Which firſt to man, and then to God wee owe.</l>
+            <l>What Ceremonies in Gods worſhip be?</l>
+            <l>Or how from Truth they differ, what care we?</l>
+            <l>Our vaine devices; which if you decent call,</l>
+            <l>As wee were wont, our due obſervance ſhall</l>
+            <l>Meet honour adde, our Tapers holy<note n="*" place="margin">The reall preſence turnes Al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ars eſpe<g ref="char:EOLhyphen"/>cially into Shrines.</note> Shrines,</l>
+            <l>So well beſeeme; things, perſons, places holy,</l>
+            <l>Conſecrate, (Impoſtours ſacred folly)</l>
+            <l>Quaint geſtures, Anthems antick coynd and made,</l>
+            <l>Inſtead of Gods true worſhip, forged by the trade</l>
+            <l>And art of mens new vaine deviſing witts;</l>
+            <l>Our fruitleſſe moulds that formes theſe apiſh tricks.</l>
+            <l>Though ſome be ſtubborne, wee are content alas,</l>
+            <l>This copper-coyne and counterfeit ſhould paſſe</l>
+            <l>Divinely currant; wee to all ſubmit.</l>
+            <l>Not to what God, but man thinks fit:</l>
+            <l>And for this cauſe wee cannot doubt that favour,</l>
+            <l>As well may ſuite with this our meeke behaviour:</l>
+            <l>And firſt that wee may from this ſtorme be freed,</l>
+            <l>Which hurrieth backe upon our frighted head,</l>
+            <l>Our holy-handy-workes; wee all our force.</l>
+            <l>And might oppoſe, yet cannot ſtop the ſourſe;</l>
+            <l>As <note n="*" place="margin">Apocal. 1.15.</note> 
+               <hi>Nilus</hi> ruſhing Catarrhacts amaſe</l>
+            <l>Th'aſtoniſht care; even ſo theſe tempeſts raiſe</l>
+            <l>
+               <pb n="3" facs="tcp:112098:3"/>A ſevenfold dread, which rightly might inferre,</l>
+            <l>The wrathfull blaſts of a mightie thunderer.</l>
+            <l>Now ayde in this extremitie of neede,</l>
+            <l>A little ayde (alas) will doe the deed.</l>
+            <l>If you but us ſuſtaine, and but advance</l>
+            <l>Our holy Patriarches, their praiſe inhance;</l>
+            <l>And ſhall ſubmit them but their former ſtate</l>
+            <l>And loftie chare, that grace and happie fate,</l>
+            <l>Shall joyntly binde us firmely to fullfill,</l>
+            <l>Orebeare, cruſh, ſway, and doe even what we will.</l>
+            <l>And firſt (to ſhew cur gratitude) wee would</l>
+            <l>Gods Sanctuary build, though not of gold,</l>
+            <l>Nor ſtone, nor ſilver; but yet his Houſe compile</l>
+            <l>Of ſtubble, ſtraw, or hay; or (if more vile)</l>
+            <l>Embaſed refuſe mettall; which if tride,</l>
+            <l>Nor triall may, nor fires heare abide:</l>
+            <l>Then wiſely fix our Fortreſſe on the Sands,</l>
+            <l>And fabricke raiſe where no foundation ſtands:</l>
+            <l>As learn'd Geometricians uſe to ſquare,</l>
+            <l>Their narrow bottom'd baſis, fixt on ayre</l>
+            <l>By rule of Art, not Reaſon; ſo you ſhall ſee,</l>
+            <l>A Towring Architecture fram'de of vanitie.</l>
+            <l>From forme and matter though all things beeing take,</l>
+            <l>No matter wee of forme or matter make;</l>
+            <l>As Maſter-builders, wee will not care for ſtuffe,</l>
+            <l>Nor forme, nor order; yet build ſtrong enough.</l>
+            <l>'T will well beſeeme as meetly worth our having,</l>
+            <l>Inſtead of <hi>Bethel</hi> though wee build <hi>Bethaven.</hi>
+            </l>
+            <l>Then even in trifles, you our zeale ſhall ſee</l>
+            <l>Exceed our knowledge, and our knowledge be</l>
+            <l>In matters ſerious ſlighteſt; but moſt ſlight</l>
+            <l>Our zeale in things of moment and of weight.</l>
+            <l>Where ſinnes turne flouds, and as a Deluge roare,</l>
+            <l>Whoſe billowes proudly doe diſdaine a ſhore</l>
+            <l>Of finite limits; there wee'le ſtraight hold forth</l>
+            <l>The Olive-branch from out our peacefull mouth:</l>
+            <l>But where right words, or works, or wayes are found,</l>
+            <l>Or but ſo ſeeme, wee'le forthwith frame our ſound</l>
+            <l>
+               <pb n="4" facs="tcp:112098:4"/>Of ſhrill voyce Trumpetts; and (to keepe them under)</l>
+            <l>Our words of lightnings, and our voyce of thunder.</l>
+            <l>Then raiſe our lifting State, as may beſeeme</l>
+            <l>Our ſelues of us to thinke, and others deeme.</l>
+            <l>Then mans devices, in deſpite of thoſe</l>
+            <l>Againe advance, that ſhall or dare oppoſe;</l>
+            <l>And teach for Doctrine what our Fathers did,</l>
+            <l>Though mens Traditions, and Gods Word forbid</l>
+            <l>Then wee'le proteſt againſt by joynt conſent.</l>
+            <l>The right advice of prudent PARLIAMENT;</l>
+            <l>And teach our ſenſleſſe faction not to flye,</l>
+            <l>Till State and Church they drench in Tyrian dye.</l>
+            <l>Then all to expedit, unite, and raiſe</l>
+            <l>Our inward energitticke Forces; no delayes</l>
+            <l>Digeſt, or brooke; but even calcine our Arts,</l>
+            <l>And teach our skill's to improve their better parts.</l>
+            <l>Thus from each Dutie wee'le not erre one whit,</l>
+            <l>Not caring how to know, but doe what's fit.</l>
+            <l>So wee theſe weightie matters well obſerve,</l>
+            <l>From petty Rites wee paſſe not how we ſwerve</l>
+            <l>For Tapers, Croſſes, Tippitts, what care wee?</l>
+            <l>Our Linnen Ephods, Copes, or bended Knee</l>
+            <l>To Altars Eaſtward ſtanding (nice ones feare)</l>
+            <l>Or <hi>Jeſus</hi> named, though no Scriptures beare</l>
+            <l>Such Byards blameleſſe; that his Word prophane,</l>
+            <l>Theſe, as you brooke, we like; or elſe count vaine.</l>
+            <l>We ſpeake of thoſe, to which they now amount,</l>
+            <l>Their preſent worth; though ſacred, wee account</l>
+            <l>Such decent Rites: we priſe, and much approve</l>
+            <l>Thoſe Rites; but theſe are times to hide our love:</l>
+            <l>All theſe and more, and what we fai<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e would have;</l>
+            <l>But none of theſe is that which now wee crave;</l>
+            <l>To ſtint this ſtorme, is now our ſole deſire,</l>
+            <l>'Gainſt which we cannot ſtand; nor will retire</l>
+            <l>T'immure this Winde, we count our greateſt gaines</l>
+            <l>Which well effect, were labour worth our paines.</l>
+            <l>This adds death to dread, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deadly feares</l>
+            <l>To cruell woes; wrecks out comforts, works our cares.</l>
+            <l>
+               <pb n="5" facs="tcp:112098:4"/>All our ſorrowes are unto this but flight,</l>
+            <l>No woes compar'd to this have wight:</l>
+            <l>The higher powers, and mightie States (alas)</l>
+            <l>Of old have been our wonted walls of braſſe.</l>
+            <l>You ſee our reſtleſſe paines; we throng and preſſe</l>
+            <l>T'impale this winde; but yet finde no redreſſe:</l>
+            <l>You ſee wee are to induſtrie inclinde,</l>
+            <l>Nor doe deſiſt, let's helpe and harbour finde:</l>
+            <l>It ſtrikes our Altars, and blowes out our Tapours;</l>
+            <l>It waſts our ſtrength, as if it were but vapours;</l>
+            <l>It ruinates our might, our Rites it raceth;</l>
+            <l>It ſmiteth all our pompe, our pride defaceth;</l>
+            <l>Our works it ſcatters, but this doth worke our toyle,</l>
+            <l>Our Cannons blaſts this tempeſt makes recoyle,</l>
+            <l>Our grace doth wither, and our glories ceaſe;</l>
+            <l>Our cares doe more abound, our feares increaſe;</l>
+            <l>Our honours fade, our high Commiſſions flye;</l>
+            <l>Our fraud's defeated, our ſecular pow'res dye.</l>
+            <l>It rends our Rochetts, and our Tippitts teares,</l>
+            <l>And puts our mortall hearts to mightie feares:</l>
+            <l>Our ſwords and keyes it ſnatcheth; blaſts our name;</l>
+            <l>It diſſipates our ſtructure; breakes our frame.</l>
+            <l>If ever wee obtaine our meete demands;</l>
+            <l>And herein purchaſe but your helping hands:</l>
+            <l>Wee'le not be ſluggiſh loggs which no man dreads;</l>
+            <l>But wiſely will beſtirre our working heads,</l>
+            <l>To get our pride, and profit, (that's our thirſt,)</l>
+            <l>Then idleneſſe; all which to purchaſe, firſt</l>
+            <l>The weapons of our warfare wee'le once more,</l>
+            <l>Embelliſh, brighten, ſcoure, and burniſh o're;</l>
+            <l>And firſt our ſecular power ſo refine,</l>
+            <l>As all that ſee't ſhall ſay, 'tis right divine.</l>
+            <l>Our croſſe-keyes thus quartered with our ſword,</l>
+            <l>Both triple gaine, and glory will afford:</l>
+            <l>Then wee our Cannons fairely will diſplay,</l>
+            <l>Taffright and chaſe the Puritan away:</l>
+            <l>And then our Croſier-ſtaves ſhall countermand,</l>
+            <l>The higheſt powers that can or dare withſtand.</l>
+            <l>
+               <pb n="6" facs="tcp:112098:5"/>But now more bravely to performe our parts,</l>
+            <l>Wee'le joyne our force, and fraud both <hi>Mars</hi> and Arts;</l>
+            <l>Theſe ſtormes by ſlight ſubdue, take ſpeedy courſe</l>
+            <l>To curb their might, break their rage, &amp; race the ſourſe.</l>
+            <l>Then ſhall our might that goodly maſſe ſuſtaine</l>
+            <l>Of mans Traditions ever to remaine</l>
+            <l>To ages ſacred; that ſhall our holy heape</l>
+            <l>Of Ceremonies ſacred keepe; we thereby reape</l>
+            <l>Our full content: thus ord'red, theſe things are</l>
+            <l>Our weapons to maintaine our holy warre.</l>
+            <l>By your ſole might (if you your aſpect give)</l>
+            <l>Our Rites ſhall proſper, and our labours live;</l>
+            <l>If not, they dye; wee muſt be diſeſteem'd;</l>
+            <l>Strict Prieſts be priſed, and praiſe-worthy deem'd:</l>
+            <l>Who mens devices ſcorne, who neither know,</l>
+            <l>What they to Rites, nor to Traditions owe;</l>
+            <l>If man preſcribes; but muſt forſooth be rul'd</l>
+            <l>By Gods Word onely, or will nothing build:</l>
+            <l>But as for us, wee like no ſuch like doing,</l>
+            <l>If gaine bids goe wee'le run, we brooke not woeing;</l>
+            <l>Ther's nothing good or bad that wee'le withſtand,</l>
+            <l>If you preſcribe it, or it State command:</l>
+            <l>And hereby hope that grace wee ſhall acquire,</l>
+            <l>Which freely may effect our full deſire.</l>
+            <l>And firſt our Liturgic, and Courts reſtore,</l>
+            <l>And higher lift our heads than heretofore;</l>
+            <l>That wee may be Non-reſidents at will,</l>
+            <l>Our Rites obſerve, and keepe our <hi>Tot-quots</hi> ſtill.</l>
+            <l>But were this winde but laid, theſe would redound,</l>
+            <l>And all that wee could wiſh beſides abound:</l>
+            <l>Wee therefore ſeek to ſtop theſe ſtormes with ſpeed,</l>
+            <l>Wee nothing aske but this; 'tis that we need:</l>
+            <l>This ſpoyles our ſport, this makes us looſe the game;</l>
+            <l>This makes our feet ſo feeble, makes us lame:</l>
+            <l>This diſſipates our union; it ſcatters</l>
+            <l>Our cunning drifts; it all our juncture ſhatters:</l>
+            <l>It ſhakes our <hi>Baſis,</hi> makes our building fall;</l>
+            <l>It batters downe our Towers, breaks our wall.</l>
+            <l>
+               <pb n="7" facs="tcp:112098:5"/>Alas, that it ſhould blaſt what wee invent,</l>
+            <l>And did deviſe out of a good intent,</l>
+            <l>To have the earth our owne, the world at will,</l>
+            <l>Our works to ſtand, our Lawes and luſts fulfill.</l>
+            <l>This blaſting Winde blowes on us, ther's our paine;</l>
+            <l>Theſe blaſts break in upon us, that's our bane.</l>
+            <l>The barbarous <note n="*" place="margin">A peo<g ref="char:EOLhyphen"/>ple at the South of <hi>Barbarie</hi> by <hi>Lybia, Herodotus</hi> reports the Storie.</note> 
+               <hi>Pſylli</hi> 'gainſt the Winde did warre;</l>
+            <l>Wee thrice more barbarous, and more ſilly are:</l>
+            <l>Their winds Hoſt was duſt, its weapons ſand:</l>
+            <l>Our ſtormes are ſent from out the Almighties hand:</l>
+            <l>They fought, they fear'd, and fled; yet ſuffred death</l>
+            <l>By feeble Blaſts; our ſtormes immortall breath</l>
+            <l>Wee feare, and fight againſt; but doe diſdaine to flye</l>
+            <l>Untill immortall furie force to dye:</l>
+            <l>Yea, wee conceive wee may it countermand,</l>
+            <l>By ſole might of mans pu'ſant pow'rfull hand;</l>
+            <l>And well enough (ſo wee but hit our ayme)</l>
+            <l>Both us and ours quitte; and raiſe our name.</l>
+            <l>But firſt with ſubtill skill and cunning Art,</l>
+            <l>Wee'le play the wiſe and prudent Serpents part.</l>
+            <l>Shee hurt is ſtraight way heal'd, if ſicke doth flye,</l>
+            <l>Or weake; if young declineth enmitie.</l>
+            <l>Not ſhrill but ſilent is; recurved bends</l>
+            <l>Her ſubmiſſe body any way; ſhee tends</l>
+            <l>Through ev'ry ſtrait and clift; ſo ſlips her skin;</l>
+            <l>Her age renues; coucht creepes; unſeene with ſting</l>
+            <l>And teeth conteſts againſt her foes: Thus wee</l>
+            <l>Both wiſely meeke, and ſerpentitle will be:</l>
+            <l>Not fight at firſt; but flye; not breake,</l>
+            <l>But how; and what may pleaſe be ſure to ſpeake:</l>
+            <l>Seeme meeke, be out-ſide-Saints, and ſhew ſubmiſſe;</l>
+            <l>What's right or reaſon, not raile againſt, but hiſſe,</l>
+            <l>If ſoule and ſordide faults deface our hew,</l>
+            <l>Wee'le ſlip out ſlough, and ſo our age renew;</l>
+            <l>And ſpirits of errour ſo refine and fearce,</l>
+            <l>As they may ſecretly and unſeene pearce.</l>
+            <l>Then men elude, like <hi>Stellious,</hi> with our ſtarres</l>
+            <l>Of painted pietie to fight our warres.</l>
+            <l>
+               <pb n="8" facs="tcp:112098:6"/>Adde ſtrength to yeares; to both adde foulds and wiles,</l>
+            <l>And ſparkling luſtre; all which the world beguiles:</l>
+            <l>And thus get ſtrength, and ſinew; teeth, and ſting;</l>
+            <l>And not till now to goe to worke beginne;</l>
+            <l>Then ſtrike the ſtroake, and freeſe our foes to ice,</l>
+            <l>By pale narcotick poyſons; then our eyes</l>
+            <l>And every part ſhall deadly venome vent,</l>
+            <l>And dart it forth, 'aſt were from Serpents ſent.</l>
+            <l>Which once diſperſt, ſhall penetrate each part;</l>
+            <l>Both ſtupifie the head, and ſtrike the heart:</l>
+            <l>Ther's none ſhall fall by Sword, ther's none ſhall fight,</l>
+            <l>Nor ſtrike a ſtroake, but by our ſubtill ſlight:</l>
+            <l>But then like ſilent ſhaddowes ſwiftly glide</l>
+            <l>Unſeene in ſecret, and ſo paſſe unſpide:</l>
+            <l>Thus wiſe as Serpents are wee'le be; but then</l>
+            <l>Aſſume the ſhew of Saints; to view be men</l>
+            <l>Submiſſe, and meeke; hold faſt; but firſt exquire</l>
+            <l>What man preſcribes (that's even our wiſht deſire)</l>
+            <l>Mans ancient wayes, yet like not that way beſt,</l>
+            <l>That's firſt, a golden meane's the way to reſt:</l>
+            <l>But new or old, wee'le ſtoope injoynde to any</l>
+            <l>By man; be't faire, or foule, or few or many.</l>
+            <l>For inward truth wee paſſe not, ſo wee be</l>
+            <l>Profound in <note n="*" place="margin">Hoſ 5.1. That is a<g ref="char:EOLhyphen"/>bundant in the ſa<g ref="char:EOLhyphen"/>crifices of their own devices.</note> ſlaughters; and our ſanctitie</l>
+            <l>In ſpecious ſeeming formes and ſhewes appeare;</l>
+            <l>Not be indeed, this had, 'tis all our care.</l>
+            <l>On all that man preſcribes we ſcruple not to build,</l>
+            <l>Save onely making conſcience unto what wee yeeld.</l>
+            <l>Thus hating ſtubbornneſſe, wee'le ſtraight beginne,</l>
+            <l>T'inflame our firie zeale 'gainſt vice and ſinne:</l>
+            <l>Like muffled <hi>Cupid</hi> take our ayme and hit</l>
+            <l>Mans ſinne unſeene; though not diſtinguiſh it,</l>
+            <l>Nor yet define what exactly it is</l>
+            <l>We ſmite, yet hit our marke, our ayme not miſſe;</l>
+            <l>Then preach pure faction to uphold our cauſe,</l>
+            <l>And ſtand for us (though it withſtand Gods lawes)</l>
+            <l>And proſelytes teach (although they ſwim in bloud)</l>
+            <l>To take our part, and thereby raiſe a floud;</l>
+            <l>
+               <pb n="9" facs="tcp:112098:6"/>So to our wils our vaſſalls frame the lay,</l>
+            <l>As Potters forme their veſlells made of clay;</l>
+            <l>And teach them ſoundly how to draw their ſword,</l>
+            <l>Againſt this raging Winde, wee meane the Word.</l>
+            <l>Then ſet the earth at oddes, enwrapp in warres</l>
+            <l>The woefull world, the State with mortall jarres</l>
+            <l>Inflame, exterminate, and wrath excite,</l>
+            <l>And all this worke by unſeene ſubtill might.</l>
+            <l>But what is this? (if you aſſent unto it)</l>
+            <l>'Tis nothing? this? wer't five times more wee'le doe it.</l>
+            <l>And firſt that we more firmely may endure,</l>
+            <l>Wee'le ſeeme ſubmiſſe to make our ſtanding ſure:</l>
+            <l>Then errours myſticall, abſtruſe, and hid,</l>
+            <l>Elixit raiſe; then ſecretly forbid</l>
+            <l>The warre eye of man to ſee, the care</l>
+            <l>Our deepe deviſed drifts and plots to heare:</l>
+            <l>Be yet more meek, then faithfully wee'le tender</l>
+            <l>Moſt fained words; ſo make and render</l>
+            <l>Great perſons ſervile to our faction,</l>
+            <l>And Laitie our vaſſals of tranſaction.</l>
+            <l>Then will we might o're-maſter, right o're-beare,</l>
+            <l>Law curbe, Religion ſtab, nor ſtint we here:</l>
+            <l>But diſcord filde from <note n="*" place="margin">Two <hi>Hydraes</hi> (that is, water-ſer<g ref="char:EOLhyphen"/>pents) are muchtrea<g ref="char:EOLhyphen"/>ted of in Hiſtorie; one ſlaine by <hi>Hercu<g ref="char:EOLhyphen"/>les,</hi> which had fiftie, ſome write an hu'dred heads; ever as he cut off one head, two ſprang up in its roome: the other ſlaine by <hi>Cadmus,</hi> he fild out her teeth and ſow<g ref="char:EOLhyphen"/>ed them, wherof an huge Ar<g ref="char:EOLhyphen"/>my of men at once ſprang up, and ſlew each o<g ref="char:EOLhyphen"/>ther.</note> 
+               <hi>Hydraes</hi> teeth wee'le ſcatter,</l>
+            <l>And all the world into diſſention ſhatter:</l>
+            <l>As lightnings glance from ſourſe unſeene, ſo wee</l>
+            <l>From <hi>Spiſſeous</hi> clouds will ſtrike, that none may ſee</l>
+            <l>Our deadly darts, ſowe jarres, make mortalls wroth,</l>
+            <l>And bloudy warres (our ſelves unſeene) hold forth:</l>
+            <l>Nor ſtint wee here, yet more our worth to ſhow,</l>
+            <l>Even at our becke wee'le make the proudeſt bow:</l>
+            <l>Wee'le cloth the world in darkneſſe, blind the light,</l>
+            <l>That none may know for whom or what they fight.</l>
+            <l>Then manicles upon that raging Winde</l>
+            <l>Wee'le caſt, checke, chide, with gives and fetters binde</l>
+            <l>Thoſe ſturdie ſtormes, thoſe ruſhing tempeſts lay,</l>
+            <l>And make thoſe mightie Winds our wills obay.</l>
+            <l>Then cheriſh vice, 'gainſt vertue be ſevere,</l>
+            <l>Rebellion foſter, to Antichriſt adhere;</l>
+            <l>
+               <pb n="10" facs="tcp:112098:7" rendition="simple:additions"/>What's vile advance, what's Orthodoxe reprove,</l>
+            <l>From peace dehort, by pride ſedition move;</l>
+            <l>Turne double diligent, and multiply our paines,</l>
+            <l>So we by it may but augment our gaines.</l>
+            <l>Thus to your Honours wee our hearts diſcloſe,</l>
+            <l>Our inward thoughts make knowne, and doe repoſe</l>
+            <l>Herein that truſt, as that wee hope to have,</l>
+            <l>Or what we aske, or what we ought to crave.</l>
+            <p>
+               <hi>Democrite quid rides quin luge Heraclite.</hi>
+            </p>
+            <div type="epilogue">
+               <head>The Authors Epilogue.</head>
+               <p>KNow Reader, and you for whoſe ſakes I am be<g ref="char:EOLhyphen"/>come your Secretary, that two Scriptures con<g ref="char:EOLhyphen"/>cerne this ſubject, and your ſelves, <hi>viz.</hi> 
+                  <note n="*" place="margin">Amos 5.5.</note> 
+                  <hi>But ſeeke not Bethel, nor enter into Gilgal;</hi> the ſecond is <hi>Amos</hi> the <hi>4.</hi> and the <hi>4. Come to Be<g ref="char:EOLhyphen"/>thel and tranſgreſſe, to Gilgal and multiply tranſgreſſion, &amp;c.</hi> In the firſt, he dehorts <hi>Iſrael;</hi> in the ſecond, plainly derides and laughes them to ſcorne: their ſtrange fires (like thoſe of <hi>Nadab</hi> and <hi>Abihu</hi>) were the cauſe of this contempt: All Scrip<g ref="char:EOLhyphen"/>tures have abundantly dehorted you from like oblations, where<g ref="char:EOLhyphen"/>with God hath been ſacrificed unto neere this <hi>1600.</hi> yeares: in <hi>Iſraels</hi> puniſhment this alſo is added, that God laughes them to ſcorne: his deriſion antecedes the execution of his fierce wrath: God when he laughes he ſtrikes, what was that contempt but the hight of reprehenſion, the depth of reproofe, and not altoge<g ref="char:EOLhyphen"/>ther evill and uſeleſſe (as ſome vainely imagine) when limited by a right rule, nor am I (though I am not confident of an infal<g ref="char:EOLhyphen"/>libilitie) any wayes conſcious of aggravation or falſhood in this Treatiſe. <hi>Si in hac re erro libenter erro,</hi> it is <hi>Tullyes</hi> ſay<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:112098:7"/>
+not mine: in this onely I am confident, <hi>Si in hac re erro,</hi> it is <hi>nec lubens nec libenter,</hi> more than I know or deſire to ju<g ref="char:EOLhyphen"/>stifie. As faithfull Miniſters were alwayes few in number, and weake in power; ſo this in no wiſe reflects upon ſuch, but upon thoſe onely that have been the workers of this their pauci<g ref="char:EOLhyphen"/>tie and povertie: if you thinke this meaſure meets not, but out<g ref="char:EOLhyphen"/>ſtrips their deſert: I anſwer, it is <hi>Toga potius concinna, quam longa;</hi> yea, I feare it will prove a great deale too ſhort. Whereas thou ſeeſt in the <hi>Embleme</hi> the Winds ſtriking and diſ<g ref="char:EOLhyphen"/>perſing the Clouds of darkneſſe, and ignorance, which incloſe the Earth, and the Ministers of that darkneſſe, the corrupt Cler<g ref="char:EOLhyphen"/>gie, and the inſtruments of thoſe Miniſters, the Altars, Ta<g ref="char:EOLhyphen"/>pours, Croſſe-Keyes, with Sword, and Croſier-ſtaves, &amp;c. Which ſhaddow forth the whole lump and heape of Traditions, and devices of man in an. Antitheſis and oppoſition to the free courſe of the Word; Know, that ſome Interpreters have ex<g ref="char:EOLhyphen"/>pounded theſe foure Angels there exprest, <hi>Revel. 7.1.</hi> to be foure chiefe and cardinall ſinnes of the univerſall corrupt Cler<g ref="char:EOLhyphen"/>gie; which may be pride, idolatry, crueltie, and covetouſneſſe: for their pride, to ſhew how they exalt themſelves above and a<g ref="char:EOLhyphen"/>gainſt the higher powers, even the Lawes of Chriſts Church and civill State I Need not to inſiſt. For crueltie, the moſt un<g ref="char:EOLhyphen"/>parralleld Story that I remember, was betwixt two <hi>Spaniards;</hi> the one a Chriſtian, the other (though convicted in judgement) an Heathen, they challenge the field, the Heathen gets the upper hand, promiſes life if he would renounce his faith; he accepts the condition, abjures it: the Heathen ſtabs him ſaying, he would now be reveng'd of him eternally, body and ſoule their crueltie extends beyond this, even to mens temporall eſtates and liberties whiles they live, and poſteritie after; his but to one, theirs to all. For idolatry the Papiſts have out ſtripped in that all the earth in all ages: their maſter-peice is their idolatry of the Alter; but yet they preſuppoſe the reall preſence there: our corrupt Prieſts worſhip and bow unto (without preſuppoſing any reall preſence as themſelves confeſſe) to the bare wood and ſtone, and therein out ſtrip the Papiſh. For. thein covetouſneſſe I cannot ſay much, perhaps they are free from this fault: wherefore I referre it to every mans judgement and cenſure taught him by his owne ex<g ref="char:EOLhyphen"/>perience.
+<pb n="12" facs="tcp:112098:8"/>
+But what were theſe petty offences of <hi>Aarons</hi> ſonnes, or the <hi>Iſraelites</hi> compared with thoſe of the Papiſts or yours? <hi>Nadab</hi> and <hi>Abihu</hi> offered but once ſtrange fires, <hi>And fire went out from the Lord and conſumed them.</hi> This alſo was the cauſe of <hi>Iſraels</hi> ſcattering and captivitie: Now I aske this que<g ref="char:EOLhyphen"/>ſtion (it skills not who or what the inſtrument be) whether it be more neceſſary or charitable to caſt ſcorne and contempt upon your ſevenfold more ſtubborne perſeverance in ſowing the ſeeds of a farre more deadly and conſuming flame: there may be a right and an happie uſe made of this, though it is uſually Gods laſt and ſharpeſt rebuke in this life; and ſometime <hi>Ne plusultra</hi> be the inſcription upon it: God laughes, and the <note n="*" place="margin">Gen. 3.17.</note> earth and <hi>A<g ref="char:EOLhyphen"/>dams</hi> poſteritie are accurſed: <note n="*" place="margin">Gen. 11.6.</note> 
+                  <hi>Babel</hi> confounded: <note n="*" place="margin">1 Kings 18.27.40.</note> 
+                  <hi>Baals</hi> Prieſts ſlaine: <hi>Iſrael</hi> ſcattered and brought to captivitie: <note n="*" place="margin">Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l. 3.2.</note> the <hi>Jewes</hi> to a durable and fearefull diſſertion and deſolation: doe not you arride your ſelves, whiles God from heaven derides you: <hi>Cum illudit Deus deſtruit,</hi> he hath begun to laugh at all your labours, and mocke your hopes, and will (wee truſt) as he hath begun) ſtill cement theſe wiſe-hearted and noble members of that honourable body in a firme, intermutuall, and right un<g ref="char:EOLhyphen"/>derſtanding of each other; and communicate the ſame (with them) to their royall head. But ye boast your ſucceſſe: your preg<g ref="char:EOLhyphen"/>nant ſeeds of diſcord ſhoot up and ſprout; they ſpring and pro<g ref="char:EOLhyphen"/>ſper, <hi>Et jam proximus arder,</hi> why doth illuſion deceive you? thoſe flames, with the hopes of your wiſhed harvest may ſhortly exterminate in your ruine. Theſe things ſee and conſider, leaſt yee draw deſolation, and ſwift deſtruction upon your ſelves and others: I reſt</p>
+               <closer>
+                  <signed>Yours (though corroſive) in all neceſſary, and faithfull offices. THO. HARBIA.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
